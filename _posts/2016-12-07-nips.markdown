@@ -1,0 +1,10 @@
+---
+layout: post
+title: nips 2016, day 3
+date: 2016-12-07 11:59:00-0400
+description: day 3 of the nips conference
+comments: true
+redirect_to:
+  - https://gab41.lab41.org/nips-2016-review-day-3-21c78586a0ec
+---
+This post shows how to add DISQUS comments.
