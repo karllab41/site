@@ -25,8 +25,7 @@ More ricochettes off the mechbot. I turned our mechbot and dashed towards the ha
 
 The bullets weren't the problem; none of the armed guards appeared to carry high power rifles, and even if they did, the ceramic armor layered on top of the mechbot machinery could defeat most kinetic energy projectiles. In truth, the only weaponry to be worried about at the moment would be artillery pieces towards the rear of the hangar, which is why I was charging the guards. By placing them between us and the guards,the guards would have to go through or around us to get to the M777 howitzers. 
 
-We started taking longer strides, leaping 15 feet per step, and we closed on the front lines at the hangar entranced within seconds. The chips on the bullet resistant glass were multiplying in force.
-
+We started taking longer strides, leaping 15 feet per step, and we closed on the front lines at the hangar entranced within seconds. The chips on the bullet resistant glass were multiplying in force. As we approached the firing line of the soldiers, most of whom were hunkered beyond wooden crates. Their commander, even at our distance away I could tell, was a dimunitive man compared to his soldiers, but he realized our intentions. I imagined his eyes widening as he quickly turned his head to the dispatch radio on his shoulder and shouted something over the gunfire. Too late, I smirked, as we jumped over the front lines and through the hangar doors.
 
 
 
