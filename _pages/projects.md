@@ -1,8 +1,8 @@
 ---
 layout: page
-title: teaching
-permalink: /teaching/
-description: A growing collection our video blogs
+title: clark
+permalink: /clark/
+description: Clark and his wonderous adventurous
 ---
 
 <ul class="post-list">
