@@ -3,7 +3,7 @@ layout: page
 title: Clark is Born
 description: a project with a background image
 date: 2018-10-05 05:16:00
-img: https://photos.google.com/u/2/share/AF1QipNRDED7OWSVTc73httF9iPk-tdTBvXnBmT1Ipc0n51pdJBKR8QmjekzlLCYBImmtw/photo/AF1QipN_oK6X4rUK6w6C1acbuyrGW6sOB5prG8X5JuY?key=RnlMaVNheEU0UnVpZnRtSWtKLUdQSkFSdGItN0Rn
+img: /assets/img/clark/clark-contained.jpg
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
