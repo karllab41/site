@@ -1,6 +1,6 @@
 ---
 layout: page
-title: clark
+title: journal
 permalink: /clark/
 description: Clark and his wonderous adventurous
 ---

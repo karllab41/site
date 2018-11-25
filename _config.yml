@@ -73,7 +73,7 @@ collections:
     output: true
     permalink: /subpages/:path/
 
-news_limit: 5
+news_limit: 50
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
