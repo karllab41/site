@@ -6,51 +6,16 @@ date: 2018-10-05 05:16:00
 img: /assets/img/clark/clark-contained.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+On October 4, 2018, Amanda was at home with her mom, and Karl was at work finishing up some projects. We were expecting to give birth the next week on October 9, and so we were taking it slow. Amanda had walked in the morning, and she was getting cramps in her stomach. She didn't know these were contractions!
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+![Amanda's Admitted](https://lh3.googleusercontent.com/fK86OEMaU_MlkXcIsl5gqFW_74fXovkHKNC6gpF6VBvXKbESLbmY4KcKLrU6xCrAn5ot8ssJw63peTiQ-AnjIv9yLwNVeLZxwUvwgrboe_VhihmC2KiA-FvirLaq19ODLdy0ef-EzQ=w2400)
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Around 5pm, Karl received a call from Amanda, and she said, "I think you should come home now." Karl immediately gathered his things and drove home. When he got home, we left immediately for the hospital. It was rush hour traffic, and we took El Camino Real all the way. The pain was getting more frequent, a "6" on a scale from one to ten, when the nurses at the front desks asked.
 
+## in labor and delivery
 
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
+Usually, you're admitted if you are 4 inches dialated. It turns out Amanda was a full six inches dialated, and would need to immediately go into a labor room. We were admitted, and the nurses were on a shift change. Many of them remarked how tall Amanda was because of her position on the bed.
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+https://photos.app.goo.gl/25yScGu1FM2wC8EF8
 
-
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+## we meet hello to baby Clark Derrin Ni
