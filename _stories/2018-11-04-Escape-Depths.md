@@ -35,12 +35,16 @@ No time to empathize with them now, though. Their more immediate concern was try
 
 We broke through the shaft ceiling, and a mix of sand and glass shattered as we jumped right out through the top into the surrounding sands. We'd made it! Not many land-vehicles and machinery could keep up with us now. We started running, as I ran some calculations about our hydrogen nuclear fuel cell and the nearest populated areas where we could disappear. 
 
-My partner started scanning radio frequencies to provide some accurate intelligence on the best directions to head. 
+My partner yelled out, "I'll start scanning radio frequencies to provide some accurate intelligence so we know where to go."
 
-Despite being so sure of how to drive and operate mechbots, and despite understanding the floor plan of an incredibly complex facility, I started becoming confused. More than that, I started becoming confused about why I was confused. In my haste to escape, I hadn't thought about why it was we were escaping. Understanding a concept like this would have required a lot more context than I was given. Why? 
+Seems rational, I thought. I continued in the current direction for the time being. 
 
-Well, I caught a glimpse of the reflection of my partner; he had a sly smile on his face. A Mona Lisa grin, as he turned the dial to accessible channels: local news.
+Then, a fog of doubt rolled over my mind. I was sure in my ability to drive and operate mechbots, and despite understanding the floor plan of an incredibly complex facility, I started becoming confused. It never entered my mind as to why I could so dexterously operate complex machinery. The controls seemed natural. More than these trivial realizations, I became confused about my confusion itself. In our haste, I had never contemplated why it was that we were escaping. Understanding a concept like this would have required a lot more context than I was given. Why? 
 
-"...these men are considered highly contagious in addition, of course, to being armed and dangerous. If approached, cover your mouths and noses, as their afflictions go beyond any. The military will seek to reason with them as they may have had some amnesia due to the viral infection..."
+I caught a glimpse of the reflection of my partner; a sly smile crept onto on his face when he realized that my thought processes slowed. It wasn't an enthusiastic expression, but rather, a Mona Lisa grin.
 
-And then...I realized why I hadn't understood; why I relied on lizard brain for so long...and opened my eyes.
+Then, abruptly, he diverted his eyes while surfing the FM band of radio frequencies. The static noise in the cockpit briefly cleared up, while the robotic hymns of our mechbot's periodic rocking filled the void. Then voices: local news.
+
+"...these men are considered highly contagious in addition, of course, to being armed and dangerous. If approached, cover your mouths and noses, as there is no known cure for the afflictions that they suffer from. Avoid contact with them at all costs, and alert your local authorities. Let professionals reason with them as they may have had some amnesia due to the infection..."
+
+I had relied on my lizard brain, apparently. And then, I began to understand everything...and opened my eyes, promptly becoming hopelessly confused again.
