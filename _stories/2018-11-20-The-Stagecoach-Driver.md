@@ -1,9 +1,9 @@
 ---
 layout: post
-title: escape from the depths
-description: "from my 2am mind...dream-writing"
+title: the stagecoach driver
+description: "dream series: episode 2"
 categories: shortstory
-permalink: /stories/2018-11-20-dream-write-02.html
+permalink: /stories/2018-11-20-stagecoach-driver-ds2.html
 comments: false
 published: true
 date: 2018-11-20

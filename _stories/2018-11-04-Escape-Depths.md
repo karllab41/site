@@ -1,9 +1,9 @@
 ---
 layout: post
 title: escape from the depths
-description: "from my 2am mind...dream-writing"
+description: "dream series: episode 1"
 categories: shortstory
-permalink: /stories/2018-11-04-dream-write-01.html
+permalink: /stories/2018-11-04-escape-depths-ds1.html
 comments: false
 published: true
 date: 2018-11-04
