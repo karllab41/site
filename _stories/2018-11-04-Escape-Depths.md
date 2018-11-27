@@ -11,7 +11,7 @@ date: 2018-11-04
 
 "Hurry! Get in!" I shouted at my partner. 
 
-![MechBot](/assets/img/interests/mechbot.jpg)
+![MechBot](/assets/img/interests/mechbot-small.jpg)
 
 I quickly settled into the cockpit of a large mechanized robot, a *mechbot*. About forty feet away in the underground hangar, my partner, a uniformed man in a dark green military suit, leapt towards me as an alarm started wailing. 
 
