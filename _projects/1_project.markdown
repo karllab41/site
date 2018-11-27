@@ -8,7 +8,7 @@ img: /assets/img/clark/clark-contained.jpg
 
 On October 4, 2018, Amanda was at home with her mom, and Karl was at work finishing up some projects. We were expecting to give birth the next week on October 9, and so we were taking it slow. Amanda had walked in the morning, and she was getting cramps in her stomach. She didn't know these were contractions!
 
-![Amanda's Admitted](https://lh3.googleusercontent.com/fK86OEMaU_MlkXcIsl5gqFW_74fXovkHKNC6gpF6VBvXKbESLbmY4KcKLrU6xCrAn5ot8ssJw63peTiQ-AnjIv9yLwNVeLZxwUvwgrboe_VhihmC2KiA-FvirLaq19ODLdy0ef-EzQ=w2400)
+<a href='https://photos.google.com/share/AF1QipMf8VmdcAbJ_teD7Hdt6RqhewyKHC_hDKWm3zJjkju76tQYNWugBuXOx7HrYAPZvA?key=UnRwSkNtWE82aGlSamZsQlAwWHM4a1JvZk1raDFn&source=ctrlq.org'><img height=100, src='https://lh3.googleusercontent.com/fK86OEMaU_MlkXcIsl5gqFW_74fXovkHKNC6gpF6VBvXKbESLbmY4KcKLrU6xCrAn5ot8ssJw63peTiQ-AnjIv9yLwNVeLZxwUvwgrboe_VhihmC2KiA-FvirLaq19ODLdy0ef-EzQ=w2400' /></a>
 
 Around 5pm, Karl received a call from Amanda, and she said, "I think you should come home now." Karl immediately gathered his things and drove home. When he got home, we left immediately for the hospital. It was rush hour traffic, and we took El Camino Real all the way. The pain was getting more frequent, a "6" on a scale from one to ten, when the nurses at the front desks asked.
 
