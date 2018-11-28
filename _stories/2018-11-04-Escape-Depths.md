@@ -11,9 +11,9 @@ date: 2018-11-04
 
 "Hurry! Get in!" I shouted at my partner. 
 
-![MechBot](/assets/img/interests/mechbot-small.jpg)
-
 I quickly settled into the cockpit of a large mechanized robot, a *mechbot*. About forty feet away in the underground hangar, my partner, a uniformed man in a dark green military suit, leapt towards me as an alarm started wailing. 
+
+![MechBot](/assets/img/interests/mechbot-small.jpg)
 
 The bay doors cracked open, though I knew that there would be a wall of guards outside it in a convoluted mess of a hallways. I had a map in my head, and navigated the football field's worth of offices, men with guns, and granite walls between us and the surface. 
 
@@ -57,12 +57,14 @@ My partner yelled out, "I'll start scanning radio frequencies to provide some ac
 
 Seems rational, I thought. I continued in the current direction for the time being. 
 
-Then, a fog of doubt rolled over my mind. I was sure in my ability to drive and operate mechbots, and despite understanding the floor plan of an incredibly complex facility, I started becoming confused. It never entered my mind as to why I could so dexterously operate complex machinery. The controls seemed natural. More than these trivial realizations, I became confused about my confusion itself. In our haste, I had never contemplated why it was that we were escaping. Understanding a concept like this would have required a lot more context than I was given. Why? 
+Then, a fog of doubt rolled over my mind. I was sure in my ability to drive and operate mechbots, and I was confident in being able to navigate the floor plan of an incredibly complex facility. But, just then confusion crept over the recesses of my brain. These doubts fueled some questions. Why *could* I so dexterously operate complex machinery? Handling the controls seemed natural, but I couldn't recall the motion sequences that effected a desired outcome. I had a general idea of the direction of where I wanted to go, and the mechbot simply moved in that direction through some unknown manipulations of controls. 
 
-I caught a glimpse of the reflection of my partner; a sly smile crept onto on his face when he realized that my thought processes slowed. It wasn't an enthusiastic expression, but rather, a Mona Lisa grin.
+These became but trivial realizations when a more fundamental question arose: why had I never been confused before? Confusion about the confusion itself, in other words. In our haste, I had never contemplated the reasons for which we were escaping. A concept like this should have been in my possession this entire time, swimming somewhere in the depths of my neurons.
 
-Then, abruptly, he diverted his eyes while surfing the FM band of radio frequencies. The static noise in the cockpit briefly cleared up, while the robotic hymns of our mechbot's periodic rocking filled the void. Then voices: local news.
+I swiveled my head towards my partner, but as my lips pursed to initiate a question, a sly smile crept onto on his face. The lips curled, and a Mona Lisa grin appeared, one where he alone was in the know and reveled in that exclusive  status. My thought processes slowed, and the grin grew more obvious, less restrained...grotesque.
+
+Abruptly, he diverted his eyes to surf the FM band of radio frequencies. The static noise in the cockpit briefly cleared, while the robotic hymns filled the void with periodic rocking from the mechbot high stepping through the sand. Then voices: local news.
 
 "...these men are considered highly contagious in addition, of course, to being armed and dangerous. If approached, cover your mouths and noses, as there is no known cure for the afflictions that they suffer from. Avoid contact with them at all costs, and alert your local authorities. Let professionals reason with them as they may have had some amnesia due to the infection..."
 
-I had relied on my lizard brain, apparently. And then, I began to understand everything...and opened my eyes, promptly becoming hopelessly confused again.
+My lizard brain realized it had been in possession of my consciousness for too long, and my more analytical side ravenously took hold. I began to understand everything as I took my last deep breath...just before I opened my eyes in the real world, promptly becoming hopelessly confused again.
