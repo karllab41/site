@@ -5,18 +5,10 @@ description: finger paintings done on iPad
 img: /assets/img/2.jpg
 ---
 
-Here are some stencils and basic sketches that were practice for larger efforts.
 
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/interests/paintings/pencil-hand.jpg" alt="" title="sketch of a hand"/>
-</div>
-<div class="col three caption">
-    Simple sketch of a hand.
-</div>
+1. [More Recent Paintings](/subpages/ipad-art/full-paintings)
+2. [Portraits of People and Animals](/subpages/ipad-art/portraits-ipadart)
+3. [Pencil Drawings and Initial Sketches](/subpages/ipad-art/pencil-ipadart).
+4. [Paintings from NPR Stories](/subpages/ipad-art/story-ipadart)
+5. [Older iPad Fingerpaintings](/subpages/ipad-art/older-ipadart)
 
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/interests/paintings/pencil-chairs.jpg" alt="" title="sketch of a conversation"/>
-</div>
-<div class="col three caption">
-    Simple sketch of people sitting and conversing. Maybe it'll become something later?
-</div>
