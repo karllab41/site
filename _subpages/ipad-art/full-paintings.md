@@ -15,24 +15,24 @@ These are more recent paintings used with an updated iPad app without a stylus.
 
 Used on an invitation to a New Year's party.
 
-![New Year's 2018](ny2018.png)
+![New Year's 2018](/assets/img/ipad-art/ny2018.png)
 
 ### A City Scene
 
 An imagined dinner on Castro Street in Mountain View in the 40's. 
 
-![The Creation of a City Scene](full-city.gif)
-![A City Scene](full-city5.png)
+![The Creation of a City Scene](/assets/img/ipad-art/full-city.gif)
+![A City Scene](/assets/img/ipad-art/full-city5.png)
 
 ### 1970s Police
 
 Style of Stephen King books.
 
-![New York State Police](full-pcar.gif)
-![New York State Police](full-pcar1.png)
+![New York State Police](/assets/img/ipad-art/full-pcar.gif)
+![New York State Police](/assets/img/ipad-art/full-pcar1.png)
 
 ### The Iconic Castle
 
 Essentially copied from the Disney Castle before movies. 
 
-![Disney Castle](full-disney.png)
+![Disney Castle](/assets/img/ipad-art/full-disney.png)
