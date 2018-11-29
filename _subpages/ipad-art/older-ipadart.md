@@ -1,5 +1,5 @@
 ---
-layout:page
+layout: page
 title: older finger paintings (no stylus)
 date: 2014-08-20 02:30:12
 permalink: /subpages/ipad-art/older-ipadart

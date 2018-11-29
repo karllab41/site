@@ -1,5 +1,5 @@
 ---
-layout:page
+layout: page
 title: pencil sketches
 date: 2014-09-20 02:30:12
 permalink: /subpages/ipad-art/pencil-sketches

@@ -1,5 +1,5 @@
 ---
-layout:page
+layout: page
 title: more recent paintings
 date: 2016-08-20 02:30:12
 permalink: /subpages/ipad-art/portraits-ipadart
