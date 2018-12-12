@@ -1,4 +1,0 @@
-resized to 208,208,3
-zero-pad resolution to 416,416,3
-place in top corner
-offset horizontal (second coordinate by 30)
