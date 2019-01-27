@@ -2,7 +2,7 @@
 layout: page
 title: day 8 - answer
 date: 2018-10-22 10:12:00-1400
-permalink: /subpages/google-curriculum/08_answer
+permalink: /subpages/google-curriculum/08_answer.html
 description: Eigth Question - Coding Answer
 ---
 
