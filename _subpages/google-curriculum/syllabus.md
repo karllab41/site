@@ -27,7 +27,7 @@ Week 1
 7. Weekend Review Day 2 - Do all week 1 Q's. Do them *really fast*.
 
 Week 2
-8. Day 8 - [Question](/subpages/google-curriculum/08_question.html). [Answer](/assets/img/google-curriculum/08_answer.html).
+8. Day 8 - [Question](/subpages/google-curriculum/08_question.html). [Answer](/subpages/google-curriculum/08_answer.html).
 9. Day 9 - [Question](/subpages/google-curriculum/09_question.html).
 10. Day 10 - [Question](/subpages/google-curriculum/10_question.html).
 11. Day 11 - [Question](/subpages/google-curriculum/11_question.html). [Answer](/assets/img/google-curriculum/11_answer.pdf).
