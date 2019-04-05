@@ -8,25 +8,26 @@ img: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/SophieAndersonTak
 <html>
   <head>
     <!-- Load TensorFlow.js -->
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.0.0"></script>
-    <!-- Load BodyPix -->
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/body-pix@1.0.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+    <!-- Load Posenet -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/posenet"></script>
  </head>
 
   <body>
-    <img id='person' src='/images/person.jpg '/>
+    <img id='cat' src='/images/cat.jpg '/>
   </body>
   <!-- Place your code in the script tag below. You can also use an external .js file -->
   <script>
+    var imageScaleFactor = 0.5;
     var outputStride = 16;
-    var segmentationThreshold = 0.5;
+    var flipHorizontal = false;
 
-    var imageElement = document.getElementById('image');
+    var imageElement = document.getElementById('cat');
 
-    bodyPix.load().then(function(net){
-      return net.estimatePersonSegmentation(imageElement, outputStride, segmentationThreshold)
-    }).then(function(segmentation){
-      console.log(segmentation);
+    posenet.load().then(function(net){
+      return net.estimateSinglePose(imageElement, imageScaleFactor, flipHorizontal, outputStride)
+    }).then(function(pose){
+      console.log(pose);
     })
   </script>
 </html>
