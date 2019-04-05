@@ -6,28 +6,60 @@ img: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/SophieAndersonTak
 ---
 
 <html>
-  <head>
-    <!-- Load TensorFlow.js -->
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
-    <!-- Load Posenet -->
-    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/posenet"></script>
- </head>
 
-  <body>
-    <img id='cat' src='/images/cat.jpg '/>
-  </body>
-  <!-- Place your code in the script tag below. You can also use an external .js file -->
-  <script>
-    var imageScaleFactor = 0.5;
-    var outputStride = 16;
-    var flipHorizontal = false;
+<head>
+    <title>PoseNet - Camera Feed Demo</title>
+    <style>
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: black;
+    }
 
-    var imageElement = document.getElementById('cat');
+    .footer-text {
+        max-width: 600px;
+        text-align: center;
+        margin: auto;
+    }
 
-    posenet.load().then(function(net){
-      return net.estimateSinglePose(imageElement, imageScaleFactor, flipHorizontal, outputStride)
-    }).then(function(pose){
-      console.log(pose);
-    })
-  </script>
+    @media only screen and (max-width: 600px) {
+      .footer-text, .dg {
+        display: none;
+      }
+    }
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <div id="info" style="display:none">
+    </div>
+    <div id="loading">
+        Loading the model...
+    </div>
+
+    <div id="main" style="display:none">
+        <video id="video" playsinline="" style=" -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        display: none;
+        ">
+        </video>
+        <canvas id="output">
+    </canvas></div>
+    <div class="footer">
+        <div class="footer-text">
+            <p>
+               You wanta POSE with THA POSE NET, MAAAAN? Check it out
+                <br>
+                <br> 
+            </p>
+        </div>
+    </div>
+    <script src="https://storage.googleapis.com/tfjs-models/demos/posenet/737f311f31f1c925b2c718522b9c55a0.js"></script>
+</body>
+
 </html>
