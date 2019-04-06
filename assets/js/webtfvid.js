@@ -1,3 +1,5 @@
+const webcamElement = document.getElementById('webcam');
+
 let net;
 
 async function setupWebcam() {
