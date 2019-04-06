@@ -26,7 +26,7 @@ So, this console thing you can through a variety of ways. Google developers use 
     <!-- Add an image that we will use to test -->
     <video autoplay playsinline muted id="webcam" width="224" height="224"></video>
     <!-- Load index.js after the content of the page -->
-    <script src="assets/js/tensorflow_post/webcam.js"></script>
+    <script src="assets/js/webtfvid.js"></script>
   </body>
 </html>
 
