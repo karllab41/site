@@ -1,17 +1,15 @@
-# al-folio
+# Karl's Website & Template
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
 [![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/alshedivat/al-folio/blob/master/LICENSE)
 [![gitter](https://badges.gitter.im/alshedivat/al-folio.svg)](https://gitter.im/alshedivat/al-folio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-A simple and clean [Jekyll](https://jekyllrb.com/) theme for academics.
+A simple and clean [Jekyll](https://jekyllrb.com/) theme for academics, forked from **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
 
 [![Screenshot](assets/img/full-screenshot.png)](https://alshedivat.github.io/al-folio/)
 
-Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
-Since then, it got a full re-write of the styles and many additional cool features.
-The emphasis is on whitespace, transparency, and academic usage: [theme demo](https://alshedivat.github.io/al-folio/).
+The theme has an emphasis is on whitespace, transparency, and academic usage: [theme demo](https://alshedivat.github.io/al-folio/). There are a couple of extra steps for the bibliography.
 
 ## Getting started
 
@@ -47,7 +45,7 @@ url: # should be empty
 baseurl:  # should be empty
 ```
 
-**You should only deploy WITHOUT THE `user` flag. If you accidentally deploy to master, then [merge back into master what you have in source](https://stackoverflow.com/questions/2763006/make-the-current-git-branch-a-master-branch).**
+**You should only deploy _with_ the `user` flag.** If you accidentally deploy to master, then [merge back into master what you have in source](https://stackoverflow.com/questions/2763006/make-the-current-git-branch-a-master-branch).
 
 ### Usage
 
