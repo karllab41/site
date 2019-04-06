@@ -16,7 +16,7 @@ description: Learning Tensorflow.js from scratch
     <!-- Add an image that we will use to test -->
     <video autoplay playsinline muted id="webcam" width="224" height="224"></video>
     <!-- Load index.js after the content of the page -->
-    <script src="assets/js/webtfvid.js"></script>
+    <script src="/assets/js/webtfvid.js"></script>
   </body>
 </html>
 
