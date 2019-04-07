@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tensorflow.js and Web Content
+title: tensorflow.js and web content
 date: 2018-09-20 11:12:00-1400
 description: Learning Tensorflow.js from scratch
 ---
