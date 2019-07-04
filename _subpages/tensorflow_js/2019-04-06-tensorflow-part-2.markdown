@@ -59,7 +59,7 @@ description: Getting your neural network to run on your website, starting with P
             </p>
         </div>
     </div>
-    <script src="https://storage.googleapis.com/tfjs-models/demos/posenet/737f311f31f1c925b2c718522b9c55a0.js"></script>
+    <script src="https://storage.googleapis.com/tfjs-models/demos/posenet/camera.d373f8d3.js"></script>
 </body>
 
 </html>
